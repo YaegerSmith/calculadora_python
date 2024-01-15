@@ -1,5 +1,5 @@
 #Mensaje de bienvenida.
-print("¡Bienvenido!")
+print("¡Bienvenido a la calculadora!")
 print("Calculadora que suma, resta, multiplica y divide.")
 print()
 #Menu de opciones
